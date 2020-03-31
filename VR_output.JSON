@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "classifiers": [
+        {
+          "classifier_id": "food",
+          "name": "food",
+          "classes": [
+            {
+              "class": "chow mein",
+              "score": 1,
+              "type_hierarchy": "/pasta or noodles/noodles/chow mein"
+            },
+            {
+              "class": "noodles",
+              "score": 1
+            },
+            {
+              "class": "pasta or noodles",
+              "score": 1
+            },
+            {
+              "class": "pan fried noodles",
+              "score": 0.5,
+              "type_hierarchy": "/pasta or noodles/noodles/pan fried noodles"
+            }
+          ]
+        }
+      ],
+      "source_url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1.jpg",
+      "resolved_url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1.jpg"
+    }
+  ],
+  "images_processed": 1,
+  "custom_classes": 0
+}
