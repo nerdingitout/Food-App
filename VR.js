@@ -14,7 +14,7 @@ const visualRecognition = new VisualRecognitionV3({
   url: config.Watson_VR_URL, //URL
 });
 
-var imgUrl ='https://dynl.mktgcdn.com/p/d9AXTJEWMZ156q11dLLVRHsmufNu0K-ng4JYb_4WwRI/1900x1427.jpg';
+var imgUrl ='https://www.gimmesomeoven.com/wp-content/uploads/2014/05/Easy-Sesame-Noodles-Recipe-7-1.jpg';
 const classifyParams = {
   url: imgUrl, //url of image
   classifierIds: ['food'],

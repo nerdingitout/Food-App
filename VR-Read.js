@@ -33,6 +33,6 @@ const fs = require('fs');
   //Call the printValues function
   printValues(obj);
   console.log(myData); //prints the array
-  console.log(myData[1]); //print myData[1] = 'noodles'
-  console.log(myData.length);// print array length
+  //console.log(myData[1]); //print myData[1] = 'noodles'
+  //console.log(myData.length);// print array length
   

@@ -7,27 +7,28 @@
           "name": "food",
           "classes": [
             {
-              "class": "pizza",
-              "score": 0.787
+              "class": "cold sesame noodle",
+              "score": 0.873,
+              "type_hierarchy": "/pasta or noodles/noodles/cold sesame noodle"
             },
             {
-              "class": "pepperoni pizza",
-              "score": 0.543,
-              "type_hierarchy": "/pizza/pepperoni pizza"
+              "class": "noodles",
+              "score": 0.941
             },
             {
-              "class": "breakfast",
-              "score": 0.504
+              "class": "pasta or noodles",
+              "score": 0.941
             },
             {
-              "class": "snack",
-              "score": 0.5
+              "class": "chow mein",
+              "score": 0.5,
+              "type_hierarchy": "/pasta or noodles/noodles/chow mein"
             }
           ]
         }
       ],
-      "source_url": "https://dynl.mktgcdn.com/p/d9AXTJEWMZ156q11dLLVRHsmufNu0K-ng4JYb_4WwRI/1900x1427.jpg",
-      "resolved_url": "https://dynl.mktgcdn.com/p/d9AXTJEWMZ156q11dLLVRHsmufNu0K-ng4JYb_4WwRI/1900x1427.jpg"
+      "source_url": "https://www.gimmesomeoven.com/wp-content/uploads/2014/05/Easy-Sesame-Noodles-Recipe-7-1.jpg",
+      "resolved_url": "https://www.gimmesomeoven.com/wp-content/uploads/2014/05/Easy-Sesame-Noodles-Recipe-7-1.jpg"
     }
   ],
   "images_processed": 1,
