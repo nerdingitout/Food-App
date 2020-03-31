@@ -7,28 +7,27 @@
           "name": "food",
           "classes": [
             {
-              "class": "chow mein",
-              "score": 1,
-              "type_hierarchy": "/pasta or noodles/noodles/chow mein"
+              "class": "pizza",
+              "score": 0.787
             },
             {
-              "class": "noodles",
-              "score": 1
+              "class": "pepperoni pizza",
+              "score": 0.543,
+              "type_hierarchy": "/pizza/pepperoni pizza"
             },
             {
-              "class": "pasta or noodles",
-              "score": 1
+              "class": "breakfast",
+              "score": 0.504
             },
             {
-              "class": "pan fried noodles",
-              "score": 0.5,
-              "type_hierarchy": "/pasta or noodles/noodles/pan fried noodles"
+              "class": "snack",
+              "score": 0.5
             }
           ]
         }
       ],
-      "source_url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1.jpg",
-      "resolved_url": "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Hakka-Noodles-1.jpg"
+      "source_url": "https://dynl.mktgcdn.com/p/d9AXTJEWMZ156q11dLLVRHsmufNu0K-ng4JYb_4WwRI/1900x1427.jpg",
+      "resolved_url": "https://dynl.mktgcdn.com/p/d9AXTJEWMZ156q11dLLVRHsmufNu0K-ng4JYb_4WwRI/1900x1427.jpg"
     }
   ],
   "images_processed": 1,

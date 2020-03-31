@@ -1,4 +1,4 @@
-
+//this is the file for uploading pictures
 
 var express = require('express');
 var formidable = require('formidable');
