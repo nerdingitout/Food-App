@@ -26,7 +26,7 @@ var options = {
   },
   'maxRedirects': 20
 };
-
+function zomatofunc(){
 var req = https.request(options, function (res) {
   var chunks = [];
 
@@ -37,11 +37,23 @@ var req = https.request(options, function (res) {
   res.on("end", function (chunk) {
     var body = Buffer.concat(chunks);
     //console.log(body.toString()); //print the output of the API call
+    fs.writeFile("./zomato_output.json", body, 'utf8', function (err) {
+      if (err) {
+          console.log("An error occured while writing JSON Object to File.");
+          return console.log(err);
+      }
+
+      console.log("JSON file has been saved.");
+    });
   });
 
   res.on("error", function (error) {
     console.error(error);
   });
 });
-
 req.end();
+
+
+}
+
+module.exports = zomatofunc;

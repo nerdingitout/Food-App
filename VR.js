@@ -14,7 +14,8 @@ const visualRecognition = new VisualRecognitionV3({
   url: config.Watson_VR_URL, //URL
 });
 
-var imgUrl ='https://www.gimmesomeoven.com/wp-content/uploads/2014/05/Easy-Sesame-Noodles-Recipe-7-1.jpg';
+function VR(){
+var imgUrl ='https://media1.s-nbcnews.com/i/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.jpg'; //make it variable
 const classifyParams = {
   url: imgUrl, //url of image
   classifierIds: ['food'],
@@ -37,3 +38,5 @@ visualRecognition.classify(classifyParams)
   .catch(err => {
     console.log('error:', err);
   });
+}
+module.exports = VR;

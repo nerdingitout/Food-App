@@ -7,28 +7,40 @@
           "name": "food",
           "classes": [
             {
-              "class": "cold sesame noodle",
-              "score": 0.873,
-              "type_hierarchy": "/pasta or noodles/noodles/cold sesame noodle"
+              "class": "cheeseburger",
+              "score": 0.832,
+              "type_hierarchy": "/snack food/sandwich/hamburger/cheeseburger"
             },
             {
-              "class": "noodles",
-              "score": 0.941
+              "class": "hamburger",
+              "score": 0.91
             },
             {
-              "class": "pasta or noodles",
-              "score": 0.941
+              "class": "sandwich",
+              "score": 0.911
             },
             {
-              "class": "chow mein",
+              "class": "snack food",
+              "score": 0.911
+            },
+            {
+              "class": "hamburger bun",
               "score": 0.5,
-              "type_hierarchy": "/pasta or noodles/noodles/chow mein"
+              "type_hierarchy": "/bread/bun/hamburger bun"
+            },
+            {
+              "class": "bun",
+              "score": 0.5
+            },
+            {
+              "class": "bread",
+              "score": 0.5
             }
           ]
         }
       ],
-      "source_url": "https://www.gimmesomeoven.com/wp-content/uploads/2014/05/Easy-Sesame-Noodles-Recipe-7-1.jpg",
-      "resolved_url": "https://www.gimmesomeoven.com/wp-content/uploads/2014/05/Easy-Sesame-Noodles-Recipe-7-1.jpg"
+      "source_url": "https://media1.s-nbcnews.com/i/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.jpg",
+      "resolved_url": "https://media1.s-nbcnews.com/i/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.jpg"
     }
   ],
   "images_processed": 1,
