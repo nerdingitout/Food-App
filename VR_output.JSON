@@ -7,40 +7,19 @@
           "name": "food",
           "classes": [
             {
-              "class": "cheeseburger",
-              "score": 0.832,
-              "type_hierarchy": "/snack food/sandwich/hamburger/cheeseburger"
+              "class": "pepperoni pizza",
+              "score": 0.972,
+              "type_hierarchy": "/pizza/pepperoni pizza"
             },
             {
-              "class": "hamburger",
-              "score": 0.91
-            },
-            {
-              "class": "sandwich",
-              "score": 0.911
-            },
-            {
-              "class": "snack food",
-              "score": 0.911
-            },
-            {
-              "class": "hamburger bun",
-              "score": 0.5,
-              "type_hierarchy": "/bread/bun/hamburger bun"
-            },
-            {
-              "class": "bun",
-              "score": 0.5
-            },
-            {
-              "class": "bread",
-              "score": 0.5
+              "class": "pizza",
+              "score": 0.975
             }
           ]
         }
       ],
-      "source_url": "https://media1.s-nbcnews.com/i/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.jpg",
-      "resolved_url": "https://media1.s-nbcnews.com/i/newscms/2019_21/2870431/190524-classic-american-cheeseburger-ew-207p_d9270c5c545b30ea094084c7f2342eb4.jpg"
+      "source_url": "https://placepull.com/wp-content/uploads/2019/05/Boston-Pizza-table-and-chairs-1200x675.png",
+      "resolved_url": "https://placepull.com/wp-content/uploads/2019/05/Boston-Pizza-table-and-chairs-1200x675.png"
     }
   ],
   "images_processed": 1,
